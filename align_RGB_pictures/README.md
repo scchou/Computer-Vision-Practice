@@ -1,2 +1,1 @@
-# Computer-Vision-Practice
-Practice of CV
+Merge RGB files
