@@ -1,1 +1,1 @@
-## Merge RGB files
+## Align and Merge RGB files
